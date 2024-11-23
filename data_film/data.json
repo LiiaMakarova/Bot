@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Harry Potter and the Philosopher's Stone",
+        "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling. It is the first instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his formal wizarding education.",
+        "rating": 7.1,
+        "genre": "Fantasy",
+        "actors": [
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson",
+            "John Cleese",
+            "Robbie Coltrane",
+            "Warwick Davis",
+            "Richard Griffiths",
+            "Richard Harris",
+            "Ian Hart",
+            "John Hurt",
+            "Alan Rickman",
+            "Fiona Shaw",
+            "Maggie Smith",
+            "Julie Walters"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg"
+    },
+    {
+        "name": "Garfield: The Movie",
+        "description": "Garfield: The Movie is a 2004 American comedy film based on Jim Davis' comic strip Garfield. Directed by Peter Hewitt and written by Joel Cohen and Alec Sokolow, it stars Breckin Meyer as Jon Arbuckle, Jennifer Love Hewitt as Dr. Liz Wilson and features Bill Murray as the voice of Garfield, who was created with computer-generated imagery.",
+        "rating": 3.52,
+        "genre": "Fantasy",
+        "actors": [
+            "Breckin Meyer",
+            "Jennifer Love Hewitt",
+            "Stephen Tobolowsky",
+            "Bill Murray"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Garfield_ver6.jpg/220px-Garfield_ver6.jpg"
+    },
+    {
+        "name": "Home Alone",
+        "description": "Home Alone, Christmas family comedy film released in 1990 about the adventures of Kevin McCallister, an eight-year-old boy, played by Macaulay Culkin, who has to fend for himself and thwart the attempts of a pair of bungling burglars trying to break into his family's house after he is inadvertently left behind when his",
+        "rating": 10.0,
+        "genre": "Camedy",
+        "actors": [
+            "Joe Pesci, Daniel Stern, Catherine O'Hara, Macaulay Culkin, Devin Ratray, Kieran Culkin "
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/03/Home_Alone_dvd_rus.jpg/270px-Home_Alone_dvd_rus.jpg"
+    },
+    {
+        "name": "Desperate Housewives",
+        "description": "A close-knit group of housewives reside in Wisteria Lane. It may appear to be a seemingly perfect neighborhood but it hides many secrets, crimes, forbidden romances and domestic struggles. A close-knit group of housewives reside in Wisteria Lane.",
+        "rating": 8.2,
+        "genre": "Detective",
+        "actors": [
+            "Larry Shaw",
+            "David Grossman",
+            "Arlene Sanford",
+            "Eva Longoria",
+            "Teri Hatcher"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/ru/7/7e/Desperate_Housewives_S8_Poster_01.jpg"
+    },
+    {
+        "name": "Bridget jones diary",
+        "description": "Bridget Jones's Diary is a 1996 novel by Helen Fielding. Written in the form of a personal diary, the novel chronicles a year in the life of Bridget Jones, a thirty-something single working woman living in London. She writes about her career, self-image, vices, family, friends, and romantic relationships.",
+        "rating": 8.2,
+        "genre": "Comedy",
+        "actors": [
+            "Colin Firth",
+            "Hugh Grant",
+            "Gemma Jones",
+            "Jim Broadbent",
+            "R. Zellweger"
+        ],
+        "poster": "https://upload.wikimedia.org/wikipedia/en/1/17/BridgetJonesDiaryMoviePoster.jpg"
+    },
+    {
+        "name": "Catch me if you can",
+        "description": "Catch Me If You Can illustrates the costs, rewards, and ethical dilemmas of deception and self-disclosure in interpersonal relationships. One of the many morals to the story is that money and prestige cannot satisfy the basic human need to be known and loved by others.",
+        "rating": 8.1,
+        "genre": "Drama",
+        "actors": [
+            "Leonardo DiCaprio",
+            "Tom Hanks",
+            "Christopher Walken",
+            "Martin Sheen"
+        ],
+        "poster": "https://m.media-amazon.com/images/I/71r-esTNtzL._SL1500_.jpg"
+    },
+    {
+        "name": "Bridge to Terabithia",
+        "description": "Bridge to Terabithia is about Jess Aarons and Leslie Burke, two fifth-graders who become friends and create an imaginary land called Terabithia, where they can go to forget about their problems. The book deals with themes of friendship, childhood, and being an individual.",
+        "rating": 8.2,
+        "genre": "Fentesy",
+        "actors": [
+            "Josh Hutcherson",
+            "AnnaSophia Robb",
+            "Zooey Deschanel"
+        ],
+        "poster": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*EuMFNj7L9wYyEVb4aO5vAg.jpeg"
+    }
+]
