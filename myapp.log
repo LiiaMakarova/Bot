@@ -1216,3 +1216,7 @@ INFO:aiogram.dispatcher:Polling stopped for bot @Film_liiamy_bot id=8021425710 -
 INFO:__main__:Started
 INFO:aiogram.dispatcher:Start polling
 INFO:aiogram.dispatcher:Run polling for bot @Film_liiamy_bot id=8021425710 - 'FilmBot'
+INFO:__main__:Started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @Film_liiamy_bot id=8021425710 - 'FilmBot'
+INFO:aiogram.event:Update id=884552728 is handled. Duration 233 ms by bot id=8021425710
